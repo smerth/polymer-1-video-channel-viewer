@@ -1,0 +1,19 @@
+#############
+# Apple stuff
+#############
+
+.DS_Store
+.tmp
+
+#############
+# Bower
+#############
+
+bower_components
+
+
+#############
+# Polymer Builds
+#############
+
+build
