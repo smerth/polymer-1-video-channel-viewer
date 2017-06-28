@@ -1,6 +1,6 @@
 # \<Show app\>
 
-Shows for web developers
+Videos for web developers
 
 ## Install the Polymer-CLI
 
