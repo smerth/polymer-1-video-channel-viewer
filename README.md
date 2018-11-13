@@ -1,18 +1,40 @@
-# \<Show app\>
+# Polymer Video Channel Viewer
 
-Videos for web developers
+A  progressive web application for viewing multiple youtube video channels built with polymer web components on the front end and firebase on the backend
 
-## Install the Polymer-CLI
+![App Screenshot](https://raw.githubusercontent.com/smerth/polymer-video-channel-viewer/master/Screenshot.png)
 
-First, make sure you have the [Polymer CLI](https://www.npmjs.com/package/polymer-cli) installed. Then run `polymer serve` to serve your application locally.
 
-## Viewing Your Application
+
+## Install
+
+```bash
+polymer install
+```
+
+
+
+## Set up Firebase
+
+See the tutorial
+
+
+
+## Add keys and tokens to app
+
+See the tutorial
+
+
+
+## Develop
 
 ```
 $ polymer serve
 ```
 
-## Building Your Application
+
+
+## Build and Serve
 
 ```
 $ polymer build
@@ -29,10 +51,18 @@ from:
 $ polymer serve build/bundled
 ```
 
-## Running Tests
+
+
+## Test
 
 ```
 $ polymer test
 ```
 
 Your application is already set up to be tested via [web-component-tester](https://github.com/Polymer/web-component-tester). Run `polymer test` to run your application's test suite locally.
+
+
+
+## Reference
+
+[Building a Progressive Web App in Polymer from scratch](https://codelabs.developers.google.com/codelabs/pwa-from-scratch/index.html?index=..%2F..%2Findex#0)
