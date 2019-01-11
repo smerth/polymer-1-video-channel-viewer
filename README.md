@@ -1,10 +1,8 @@
 # Polymer Video Channel Viewer
 
-A  progressive web application for viewing multiple youtube video channels built with polymer web components on the front end and firebase on the backend
+A progressive web application for viewing multiple youtube video channels built with polymer web components on the front end and firebase on the backend
 
-![App Screenshot](https://raw.githubusercontent.com/smerth/polymer-video-channel-viewer/master/Screenshot.png)
-
-
+![App Screenshot](https://raw.githubusercontent.com/smerth/polymer-video-channel-viewer/master/screenshot.png)
 
 ## Install
 
@@ -12,27 +10,19 @@ A  progressive web application for viewing multiple youtube video channels built
 polymer install
 ```
 
-
-
 ## Set up Firebase
 
 See the tutorial
 
-
-
 ## Add keys and tokens to app
 
 See the tutorial
-
-
 
 ## Develop
 
 ```
 $ polymer serve
 ```
-
-
 
 ## Build and Serve
 
@@ -51,8 +41,6 @@ from:
 $ polymer serve build/bundled
 ```
 
-
-
 ## Test
 
 ```
@@ -60,8 +48,6 @@ $ polymer test
 ```
 
 Your application is already set up to be tested via [web-component-tester](https://github.com/Polymer/web-component-tester). Run `polymer test` to run your application's test suite locally.
-
-
 
 ## Reference
 
